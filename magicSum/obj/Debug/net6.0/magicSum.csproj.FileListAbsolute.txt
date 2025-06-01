@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/arraysExercises/magicSum/bin/Debug/net6.0/magicSum
+/Users/ivanpeshterski/Projects/arraysExercises/magicSum/bin/Debug/net6.0/magicSum.deps.json
+/Users/ivanpeshterski/Projects/arraysExercises/magicSum/bin/Debug/net6.0/magicSum.runtimeconfig.json
+/Users/ivanpeshterski/Projects/arraysExercises/magicSum/bin/Debug/net6.0/magicSum.dll
+/Users/ivanpeshterski/Projects/arraysExercises/magicSum/bin/Debug/net6.0/magicSum.pdb
+/Users/ivanpeshterski/Projects/arraysExercises/magicSum/obj/Debug/net6.0/magicSum.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/arraysExercises/magicSum/obj/Debug/net6.0/magicSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/arraysExercises/magicSum/obj/Debug/net6.0/magicSum.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/arraysExercises/magicSum/obj/Debug/net6.0/magicSum.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/arraysExercises/magicSum/obj/Debug/net6.0/magicSum.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/arraysExercises/magicSum/obj/Debug/net6.0/magicSum.dll
+/Users/ivanpeshterski/Projects/arraysExercises/magicSum/obj/Debug/net6.0/refint/magicSum.dll
+/Users/ivanpeshterski/Projects/arraysExercises/magicSum/obj/Debug/net6.0/magicSum.pdb
+/Users/ivanpeshterski/Projects/arraysExercises/magicSum/obj/Debug/net6.0/magicSum.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/arraysExercises/magicSum/obj/Debug/net6.0/ref/magicSum.dll

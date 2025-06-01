@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FVGFE2cNgny2ojFRberNFvYW+bR3gtW/c1L/bGwX3EnGcVV2gtKOC/+M46gwXJ9S/TcRhOvfBrplc75WFIpK+w==",
+  "success": true,
+  "projectFilePath": "/Users/ivanpeshterski/Projects/arraysExercises/maxSequenceElements/maxSequenceElements.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
