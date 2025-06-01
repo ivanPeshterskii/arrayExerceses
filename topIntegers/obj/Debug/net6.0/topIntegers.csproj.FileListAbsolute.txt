@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/arraysExercises/topIntegers/bin/Debug/net6.0/topIntegers
+/Users/ivanpeshterski/Projects/arraysExercises/topIntegers/bin/Debug/net6.0/topIntegers.deps.json
+/Users/ivanpeshterski/Projects/arraysExercises/topIntegers/bin/Debug/net6.0/topIntegers.runtimeconfig.json
+/Users/ivanpeshterski/Projects/arraysExercises/topIntegers/bin/Debug/net6.0/topIntegers.dll
+/Users/ivanpeshterski/Projects/arraysExercises/topIntegers/bin/Debug/net6.0/topIntegers.pdb
+/Users/ivanpeshterski/Projects/arraysExercises/topIntegers/obj/Debug/net6.0/topIntegers.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/arraysExercises/topIntegers/obj/Debug/net6.0/topIntegers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/arraysExercises/topIntegers/obj/Debug/net6.0/topIntegers.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/arraysExercises/topIntegers/obj/Debug/net6.0/topIntegers.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/arraysExercises/topIntegers/obj/Debug/net6.0/topIntegers.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/arraysExercises/topIntegers/obj/Debug/net6.0/topIntegers.dll
+/Users/ivanpeshterski/Projects/arraysExercises/topIntegers/obj/Debug/net6.0/refint/topIntegers.dll
+/Users/ivanpeshterski/Projects/arraysExercises/topIntegers/obj/Debug/net6.0/topIntegers.pdb
+/Users/ivanpeshterski/Projects/arraysExercises/topIntegers/obj/Debug/net6.0/topIntegers.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/arraysExercises/topIntegers/obj/Debug/net6.0/ref/topIntegers.dll

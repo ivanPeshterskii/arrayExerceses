@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/arraysExercises/arrayRotation/bin/Debug/net6.0/arrayRotation
+/Users/ivanpeshterski/Projects/arraysExercises/arrayRotation/bin/Debug/net6.0/arrayRotation.deps.json
+/Users/ivanpeshterski/Projects/arraysExercises/arrayRotation/bin/Debug/net6.0/arrayRotation.runtimeconfig.json
+/Users/ivanpeshterski/Projects/arraysExercises/arrayRotation/bin/Debug/net6.0/arrayRotation.dll
+/Users/ivanpeshterski/Projects/arraysExercises/arrayRotation/bin/Debug/net6.0/arrayRotation.pdb
+/Users/ivanpeshterski/Projects/arraysExercises/arrayRotation/obj/Debug/net6.0/arrayRotation.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/arraysExercises/arrayRotation/obj/Debug/net6.0/arrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/arraysExercises/arrayRotation/obj/Debug/net6.0/arrayRotation.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/arraysExercises/arrayRotation/obj/Debug/net6.0/arrayRotation.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/arraysExercises/arrayRotation/obj/Debug/net6.0/arrayRotation.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/arraysExercises/arrayRotation/obj/Debug/net6.0/arrayRotation.dll
+/Users/ivanpeshterski/Projects/arraysExercises/arrayRotation/obj/Debug/net6.0/refint/arrayRotation.dll
+/Users/ivanpeshterski/Projects/arraysExercises/arrayRotation/obj/Debug/net6.0/arrayRotation.pdb
+/Users/ivanpeshterski/Projects/arraysExercises/arrayRotation/obj/Debug/net6.0/arrayRotation.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/arraysExercises/arrayRotation/obj/Debug/net6.0/ref/arrayRotation.dll

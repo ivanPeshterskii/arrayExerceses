@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/arraysExercises/secondExCommonElements/bin/Debug/net6.0/secondExCommonElements
+/Users/ivanpeshterski/Projects/arraysExercises/secondExCommonElements/bin/Debug/net6.0/secondExCommonElements.deps.json
+/Users/ivanpeshterski/Projects/arraysExercises/secondExCommonElements/bin/Debug/net6.0/secondExCommonElements.runtimeconfig.json
+/Users/ivanpeshterski/Projects/arraysExercises/secondExCommonElements/bin/Debug/net6.0/secondExCommonElements.dll
+/Users/ivanpeshterski/Projects/arraysExercises/secondExCommonElements/bin/Debug/net6.0/secondExCommonElements.pdb
+/Users/ivanpeshterski/Projects/arraysExercises/secondExCommonElements/obj/Debug/net6.0/secondExCommonElements.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/arraysExercises/secondExCommonElements/obj/Debug/net6.0/secondExCommonElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/arraysExercises/secondExCommonElements/obj/Debug/net6.0/secondExCommonElements.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/arraysExercises/secondExCommonElements/obj/Debug/net6.0/secondExCommonElements.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/arraysExercises/secondExCommonElements/obj/Debug/net6.0/secondExCommonElements.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/arraysExercises/secondExCommonElements/obj/Debug/net6.0/secondExCommonElements.dll
+/Users/ivanpeshterski/Projects/arraysExercises/secondExCommonElements/obj/Debug/net6.0/refint/secondExCommonElements.dll
+/Users/ivanpeshterski/Projects/arraysExercises/secondExCommonElements/obj/Debug/net6.0/secondExCommonElements.pdb
+/Users/ivanpeshterski/Projects/arraysExercises/secondExCommonElements/obj/Debug/net6.0/secondExCommonElements.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/arraysExercises/secondExCommonElements/obj/Debug/net6.0/ref/secondExCommonElements.dll

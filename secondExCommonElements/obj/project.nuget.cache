@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9s1tvIy40MGzSqBzEESOelC6XMzBjcsA0VJvSsnfswQgkb6PA7Kuj0E6lY31/82IJd6ANMjDrq63svTlmBLIzA==",
+  "success": true,
+  "projectFilePath": "/Users/ivanpeshterski/Projects/arraysExercises/secondExCommonElements/secondExCommonElements.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
