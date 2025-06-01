@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/arraysExercises/firstExerciseTrain/bin/Debug/net6.0/firstExerciseTrain
+/Users/ivanpeshterski/Projects/arraysExercises/firstExerciseTrain/bin/Debug/net6.0/firstExerciseTrain.deps.json
+/Users/ivanpeshterski/Projects/arraysExercises/firstExerciseTrain/bin/Debug/net6.0/firstExerciseTrain.runtimeconfig.json
+/Users/ivanpeshterski/Projects/arraysExercises/firstExerciseTrain/bin/Debug/net6.0/firstExerciseTrain.dll
+/Users/ivanpeshterski/Projects/arraysExercises/firstExerciseTrain/bin/Debug/net6.0/firstExerciseTrain.pdb
+/Users/ivanpeshterski/Projects/arraysExercises/firstExerciseTrain/obj/Debug/net6.0/firstExerciseTrain.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/arraysExercises/firstExerciseTrain/obj/Debug/net6.0/firstExerciseTrain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/arraysExercises/firstExerciseTrain/obj/Debug/net6.0/firstExerciseTrain.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/arraysExercises/firstExerciseTrain/obj/Debug/net6.0/firstExerciseTrain.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/arraysExercises/firstExerciseTrain/obj/Debug/net6.0/firstExerciseTrain.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/arraysExercises/firstExerciseTrain/obj/Debug/net6.0/firstExerciseTrain.dll
+/Users/ivanpeshterski/Projects/arraysExercises/firstExerciseTrain/obj/Debug/net6.0/refint/firstExerciseTrain.dll
+/Users/ivanpeshterski/Projects/arraysExercises/firstExerciseTrain/obj/Debug/net6.0/firstExerciseTrain.pdb
+/Users/ivanpeshterski/Projects/arraysExercises/firstExerciseTrain/obj/Debug/net6.0/firstExerciseTrain.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/arraysExercises/firstExerciseTrain/obj/Debug/net6.0/ref/firstExerciseTrain.dll

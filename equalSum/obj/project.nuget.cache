@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Q/I6BRcJJC3i3MiOfJQTGUpP5rkv++AG/CQublwmJ8u0G5lBB/TW3W4Qu5wVA63sOZOD0+eL+V40sob9FuYrA==",
+  "success": true,
+  "projectFilePath": "/Users/ivanpeshterski/Projects/arraysExercises/equalSum/equalSum.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
